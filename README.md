@@ -1,2 +1,2 @@
 # E-plati
-eplati
+Primer kako preuzeti uplatnicu kreiranu na sajtu e-uprave
